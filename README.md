@@ -1,7 +1,7 @@
 # MyUsers
 An API for User registration, authentication and login using Java, Springboot, JPA, PostgreSQL and Gradle.
 <br><br>
-<b>Routes (http://localhost:8080/):</b>
+<b>Routes (http://localhost:8080/):</b><br>
 <b>/users/register</b> -  For registration of user. <br>
 Request body example (User Object): <br>
 {<br>
