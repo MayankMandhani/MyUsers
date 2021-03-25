@@ -5,10 +5,10 @@ An API for User registration, authentication and login using Java, Springboot, J
 <b>/users/register</b> -  For registration of user. <br>
 Request body example (User Object): <br>
 {<br>
-    "emai<br>l": "tester@test.com",<br>
-    "firstNam<br>e": "Tester",<br>
-    "lastName": "<br>Test",<br>
-    "dob": "2000-12-0<br>9",<br>
+&emsp;    "email": "tester@test.com",<br>
+    "firstName": "Tester",<br>
+    "lastName": "Test",<br>
+    "dob": "2000-12-09",<br>
     "place": "India",<br>
     "password": "test"<br>
 }<br>
