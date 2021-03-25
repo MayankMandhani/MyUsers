@@ -31,5 +31,5 @@ Request body example (User Object): <br>
     &emsp;"password": "test"<br>
 }<br>
 <br>
-<b>/login_history</b> - To view the captures Login History.<br>
+<b>/login_history</b> - To view the captured Login History.<br>
 No request body required.
