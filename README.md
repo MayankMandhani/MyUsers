@@ -2,7 +2,7 @@
 An API for User registration, authentication and login using Java, Springboot, JPA, PostgreSQL and Gradle.
 
 # Routes (http://localhost:8080/):
-/users/register -  For registration of user.
+<b>/users/register</b> -  For registration of user. <br>
 Request body example (User Object): 
 {
     "email": "tester@test.com",
